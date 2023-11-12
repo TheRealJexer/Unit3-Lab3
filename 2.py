@@ -15,7 +15,7 @@ if operation == "add":
 elif operation == "subtract":
     result = first_number - second_number
     print(f"Result: {result}")
-elif operation == "multiply":
+elif operation == "multiple":
     result = first_number * second_number
     print(f"Result: {result}")
 elif operation == "divide":
